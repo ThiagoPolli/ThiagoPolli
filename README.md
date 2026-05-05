@@ -39,7 +39,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
-  # 📊 GitHub Stats:
+
+# 📊 GitHub Stats:
 </br>
 <p align="center" style="border-radius:100%"></p>
 
